@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/@cottoncandypunch-DD2A7B?style=flat-square&logo=instagram&logoColor=white&labelColor=DD2A7B"/> &nbsp
 <img src="https://img.shields.io/badge/@palgongsanredeu-5865F2?style=flat-square&logo=discord&logoColor=white&labelColor=5865F2"/>
 
-<a href="https://www.instagram.com/cottoncandypunch/" target="_blank"><img src="https://img.shields.io/badge/-=DD2A7Bstyle=flat-square&logo=instagram&&logoColor=white"/></a>
+<a href="https://www.instagram.com/cottoncandypunch/" target="_blank"><img src="https://img.shields.io/badge/-DD2A7Bstyle=flat-square&logo=instagram&&logoColor=white"/></a>
 </div>
 
 - 📫 Portfolio  : https://sites.google.com/view/jongjong/%ED%99%88
