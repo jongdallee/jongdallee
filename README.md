@@ -10,6 +10,7 @@
 
 <h3 align="left">✨ contect ✨</h3>
 <a href="https://www.instagram.com/cottoncandypunch/" target="_blank"><img src="https://img.shields.io/badge/instagram-DD2A7B?style=flat-square&logo=instagram&logoColor=white"/></a>
+<a href="https://sites.google.com/view/jongjong/%ED%99%88" target="_blank"><img src="https://img.shields.io/badge/Portfoilo-7248B9?style=flat-square&logo=googleforms&logoColor=white"/></a>
 </div>
 
-- 📫 Portfolio  : https://sites.google.com/view/jongjong/%ED%99%88
+
