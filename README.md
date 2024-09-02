@@ -1,5 +1,5 @@
 ## Hi there 👋👋👋👋
-- 📫 Email      : jonghwann@naver.com ...
+- 📫 Email      : jonghwann@naver.com 
 - 📫 Portfolio  : https://sites.google.com/view/jongjong/%ED%99%88
 <!--
 **jongdallee/jongdallee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
