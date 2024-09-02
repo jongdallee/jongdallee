@@ -1,5 +1,6 @@
 ## Hi there 👋👋👋👋
-📫 Email : jonghwann
+📫 Email : jonghwann@naver.com
+
 <!--
 **jongdallee/jongdallee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
