@@ -2,5 +2,6 @@
 
 <img src="https://img.shields.io/badge/jonghwann@naver.com-3DDC84?style=flat-square&logo=maildotcom&logoColor=white&labelColor=3DDC84"/>
 
+<img src="https://img.shields.io/badge/@cottoncandypunch-3DDC84?style=flat-square&logo=instagram&logoColor=white&labelColor=3DDC84"/>
 - 📫 Email      : jonghwann@naver.com 
 - 📫 Portfolio  : https://sites.google.com/view/jongjong/%ED%99%88
